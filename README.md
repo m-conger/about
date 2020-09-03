@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineerconger" alt="engineerconger" /> </p>
 
-- 🔭 I’m currently working on [Web Development](muhammedconger.com)
+- 🔭 I’m currently working on [Web Development](http://muhammedconger.com)
 
 - 🌱 I’m currently learning **life**
 
@@ -11,7 +11,7 @@
 
 - 👯 I'm a member of this community **Erciyes Toplumsal Teknoloji Kulübü**
 
-- 👨‍💻 All of my projects are available at | 📝 I regulary write articles on [muhammedconger.com](muhammedconger.com)
+- 👨‍💻 All of my projects are available at | 📝 I regulary write articles on [muhammedconger.com](http://muhammedconger.com)
 
 - 💬 Ask me about **Electronic Circuit Design, Circuit Simulation, ARM, Arduino, 3D Solid Model Design, C/C++, Python, Data Science, Machine Learning, NLP (Natural Language Processing), Chatbot, Web Development, Video Editing and Graphic Design**
 
