@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammed Conger engineercngr</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Conger</h1>
 <h3 align="center">Electrical and Electronics Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engineerconger" alt="engineerconger" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedconger" alt="muhammedconger" /> </p>
 
 - 🔭 I’m currently working on [Web Development](http://muhammedconger.com)
 
-- 🌱 I’m currently learning **life**
+- 🌱 I’m currently learning ****
 
-- 🤝 I’m currently working on **PCB Design Engineer at a Startup**
+- 🤝 I’m currently working on ****
 
-- 👯 I'm a member of this community **Erciyes Toplumsal Teknoloji Kulübü**
+- 👯 I'm a member of this community ****
 
 - 👨‍💻 All of my projects are available at | 📝 I regulary write articles on [muhammedconger.com](http://muhammedconger.com)
 
