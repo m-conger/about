@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Web Development](https://muhammedconger.com)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning ** life **
 
-- 🤝 I’m currently working on ****
+- 🤝 I’m currently working on ** Hardware Design **
 
 - 👯 I'm a member of this community ****
 
